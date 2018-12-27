@@ -1,0 +1,116 @@
+[{
+  "id": 1,
+  "name": "1EW90013-472",
+  "price": 120.00,
+  "salePrice": 120.00,
+  "discount": 0,
+  "pictures": ["assets/images/deepcart/4.jpg", "assets/images/deepcart/4_1.jpg", "assets/images/deepcart/4_2.jpg", "assets/images/deepcart/4_3.jpg"],
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "stock": 5,
+  "new": true,
+  "sale": true,
+  "category": "men",
+  "colors": ["navy", "gray", "georgetown"],
+  "size": ["7", "8"],
+  "tags": ["nike", "caprese", "lifestyle"],
+  "variants": [
+  {
+    "color": "navy",
+    "images": "assets/images/deepcart/4.jpg"
+  },
+  {
+    "color": "gray",
+    "images": "assets/images/deepcart/4_1.jpg"
+  },
+  {
+    "color": "georgetown",
+    "images": "assets/images/deepcart/4_2.jpg"
+  }]
+}, 
+{
+  "id": 2,
+  "name": "1EW90148-057",
+  "price": 135.00,
+  "salePrice": 135.00,
+  "discount": 0,
+  "pictures": ["assets/images/deepcart/2.jpg", "assets/images/deepcart/2_1.jpg", "assets/images/deepcart/2_2.jpg", "assets/images/deepcart/2_3.jpg", "assets/images/deepcart/2.jpg"],
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "stock": 2,
+  "new": true,
+  "sale": false,
+  "category": "men",
+  "colors": ["platinum", "black"],
+  "size": ["8", "8.5", "9", "9.5", "10", "10", "10.5","11", "11.5"],
+  "tags": ["caprese", "puma", "lifestyle"],
+  "variants": [
+  {
+    "color": "platinum",
+    "images": "assets/images/deepcart/2.jpg"
+  },
+  {
+    "color": "black",
+    "images": "assets/images/deepcart/2_1.jpg"
+  }]
+},
+{
+  "id": 3,
+  "name": "1EW90212-363",
+  "price": 125.00,
+  "salePrice": 125.00,
+  "discount": 0,
+  "pictures": ["assets/images/deepcart/3.jpg", "assets/images/deepcart/3_1.jpg", "assets/images/deepcart/3_2.jpg", "assets/images/deepcart/3_3.jpg", "assets/images/deepcart/3_4.jpg"],
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "stock": 25,
+  "new": false,
+  "sale": false,
+  "category": "men",
+  "colors": ["chive", "white", "gum"],
+  "size": ["9", "9.5", "10", "10.5"],
+  "tags": ["puma", "lifestyle"],
+  "variants": [
+  {
+    "color": "blue",
+    "images": "assets/images/deepcart/3.jpg"
+  },
+  {
+    "color": "white",
+    "images": "assets/images/deepcart/3.jpg"
+  },
+  {
+    "color": "yellow",
+    "images": "assets/images/deepcart/3.jpg"
+  }]
+},
+{
+  "id": 4,
+  "name": "1EW90124-046",
+  "price": 120.00,
+  "salePrice": 120.00,
+  "discount": 0,
+  "pictures": ["assets/images/deepcart/1.jpg", "assets/images/deepcart/1_1.jpg", "assets/images/deepcart/1_2.jpg", "assets/images/deepcart/1_3.jpg", "assets/images/deepcart/1_4.jpg"],
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "stock": 15,
+  "new": true,
+  "sale": true,
+  "category": "men",
+  "colors": ["black", "gum", "gold"],
+  "size": ["7"],
+  "tags": ["lifestyle", "nike", "puma"],
+  "variants": [
+  {
+    "color": "pink",
+    "images": "assets/images/deepcart/1.jpg"
+  },
+  {
+    "color": "gray",
+    "images": "assets/images/deepcart/1.jpg"
+  },
+  {
+    "color": "green",
+    "images": "assets/images/deepcart/1.jpg"
+  }]
+}]
